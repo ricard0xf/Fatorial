@@ -8,7 +8,6 @@ int main()
     int fat = 0;
     int resposta = 1;
 
-
     printf("Type a number: \n");
     scanf("%d", &fat);
 
